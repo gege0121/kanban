@@ -6,6 +6,7 @@
 * cd to root directory of this project;
 * run command: 
 ```bash
+bash build.sh
 bash run.sh
 ```
 * use Postman to test API
